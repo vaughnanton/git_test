@@ -1,1 +1,1 @@
-This is Vaughn's first git project!
+Github/git test. 
