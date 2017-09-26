@@ -1,1 +1,1 @@
-Github/git test. 
+Github/git test
